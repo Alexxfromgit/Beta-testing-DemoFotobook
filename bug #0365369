@@ -1,0 +1,24 @@
+Priority: Normal
+Severity: Major
+Reproducibility: Always
+Platform: Safari 5.1.7
+OS: Windows
+OS Version: 7 x86
+
+Summary: [F] The error message is shown in the "Safari" browser after opening the site
+
+Description: 	The error message is shown in the "Safari" browser after opening the site
+
+Steps To Reproduce:
+
+1. Open the "Safari" browser
+2. Go to the site http://demo.fotobook-******
+3. Pay attention to the error message
+
+Actual result: The error message is shown in the "Safari" browser after opening the site
+
+Expected result: The error message is not shown in the "Safari" browser after opening the site
+
+Attached Files:
+
+bug0365369.jpg
