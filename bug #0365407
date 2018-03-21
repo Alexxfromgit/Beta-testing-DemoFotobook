@@ -1,0 +1,43 @@
+Priority: High
+Severity: Block
+Reproducibility: Always
+Platform: Google Chrome 63.0.3239.132
+OS: Windows
+OS Version: 7 x86
+
+Summary: [F] The data is not saved in the "City" and "Street" fields
+on the "Delivery information" page after moving to the next field
+
+Description: 	The data is not saved in the "City" and "Street/house" fields
+on the "Delivery information" page after moving to the next field during placing the order
+
+Steps To Reproduce:
+
+1. Click on the "Checkout" button
+2. Set the radio button on the "Pick up" field
+3. Click to the "Next step" button
+4. Fill the "City" or "Street/house" field with the valid text
+5. Move the cursor to the next field
+6. Pay attention to the unsaved data in the "City" or "Street/house" field
+
+Actual result: The data is not saved in the "City" and "Street/house" fields
+on the "Delivery information" page after moving to the next field during placing the order
+
+Expected result: The data is saved in the "City" and "Street/house" fields
+on the "Delivery information" page after moving to the next field during placing the order
+
+Additional Information:
+
+Preconditions:
+1. Login to the site http://demo.fotobook******* is completed
+2. The item is added to the cart
+3. The "Order Cart" page is opened
+
+Environment:
+IE 11.0
+Google Chrome 63.0.3239.132
+Mozilla Firefox 52.4.0
+
+Attached Files:
+
+bug0365407.jpg
