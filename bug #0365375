@@ -1,0 +1,31 @@
+Priority: Low
+Severity: Text
+Reproducibility: Always
+Platform: Google Chrome 63.0.3239.132
+OS: Windows
+OS Version: 7 x86
+
+Summary: [F] The spelling mistake in the word is allowed in the text of the "Guarantees" on the page "Terms and Conditions"
+
+Description: 	The spelling mistake in the word is allowed in the text of the "Guarantees" on the page "Terms and Conditions"
+
+Steps To Reproduce:
+
+1. Go to the site http://demo.fotobook*******
+2. Open the "Terms and Conditions" page
+3. Pay attention to the spelling mistake in the word
+
+Actual result: The spelling mistake in the word is allowed in the text of the "Guarantees" on the page "Terms and Conditions"
+
+Expected result: The spelling mistake in the word is not allowed in the text of the "Guarantees" on the page "Terms and Conditions"
+
+Additional Information:
+
+Environment:
+IE 11.0
+Google Chrome 63.0.3239.132
+Mozilla Firefox 52.4.0
+
+Attached Files:
+
+bug0365375.jpg
