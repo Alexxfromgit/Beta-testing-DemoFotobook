@@ -1,0 +1,35 @@
+Priority: Normal
+Severity: Minor
+Reproducibility: Always
+Platform: Google Chrome 63.0.3239.132
+OS: Windows
+OS Version: 7 x86
+
+Summary: [F] The "Euro" currency is displayed with an error in the "Сurrency" drop-down menu on the "My Account" page
+
+Description: 	The "Euro" currency is displayed with an error in the "Сurrency" drop-down menu on the "My Account" page
+
+Steps To Reproduce:
+
+1. Go to the site http://demo.fotobook******* as the registered user
+2. Open the "My Account" page
+3. Open the "Сurrency" drop-down menu
+4. Pay attention to the "Euro" currency
+
+Actual result: The "Euro" currency is displayed with an error in the "Сurrency" drop-down menu on the "My Account" page
+
+Expected result: The "Euro" currency is not displayed with an error in the "Сurrency" drop-down menu on the "My Account" page
+
+Additional Information:
+
+Preconditions:
+1. The site language is switched to Russian
+
+Environment:
+IE 11.0
+Google Chrome 63.0.3239.132
+Mozilla Firefox 52.4.0
+
+Attached Files:
+
+bug0365384.jpg
