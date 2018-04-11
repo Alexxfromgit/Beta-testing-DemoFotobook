@@ -1,5 +1,6 @@
 <p align="center">
   <img src="http://demo.fotobook-platform.com/storage/files/settings/demo.png?v=1489048385">
+  <img src="https://image.ibb.co/j22EXH/Project_Photobook.jpg">  
   
   # Fotobook-Platgorm Web-project
   
